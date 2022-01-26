@@ -1,0 +1,5 @@
+Tue Jan 25 00:49:26 2022: ami teler pitha khaisi
+Tue Jan 25 00:49:58 2022: ami akhon ruti khamo
+Tue Jan 25 00:51:05 2022: ruti r tarkari khamo akhn
+Tue Jan 25 21:30:28 2022: python -u "d:\My Coding World\Python\tutorial\code with harry\tutorial32_exercise5.py"
+Tue Jan 25 21:30:46 2022: ami akhon pitha khaitasi
